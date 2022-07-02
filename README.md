@@ -1,2 +1,3 @@
-# project_immortality_with_github
-Project Immortality: Using GitHub To Make Your Work Live Forever
+# Project Immortality: Using GitHub To Make Your Work Live Forever
+
+2022 RStudio Conference - July 27, 2022
