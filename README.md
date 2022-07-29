@@ -1,6 +1,9 @@
 # Project Immortality
 _Using GitHub To Make Your Work Live Forever_
 
+![promotional image](https://user-images.githubusercontent.com/38083823/181840001-262ad3d6-1340-4eee-b669-2034a9991fa3.png)
+
+
 - Recording: {TBD}
 - PowerPoint Online: <https://tanho.ca/pi>
 
