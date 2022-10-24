@@ -3,8 +3,8 @@ _Using GitHub To Make Your Work Live Forever_
 
 ![promo image](https://user-images.githubusercontent.com/38083823/181840001-262ad3d6-1340-4eee-b669-2034a9991fa3.png)
 
+- Recording: https://www.youtube.com/watch?v=wzcz4xNGeTI
 
-- Recording: <https://www.rstudio.com/conference/2022/talks/project-immortality-github/>
 - PowerPoint Online: <https://tanho.ca/pi>
 
 A talk given at rstudio::conf(2022) about three free tools to help your project help others, long after you move on from the project. 
